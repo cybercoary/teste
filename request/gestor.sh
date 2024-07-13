@@ -181,10 +181,10 @@ case $opx in
 	5)
 	act_hora
 	break;;
-        6)
+    6)
 	cambiopass
 	break;;
-        7)
+    7)
 	rootpass
 	break;;
 esac
